@@ -13,7 +13,7 @@ namespace Tyuiu.BrovinaYV.Sprint0.Task2.V0
         {
             //Вызов класса DataService и метода GetMessage
             //из библиотеки Tyuiu.BrovinaYV.Sprint0.V0.Lib
-            Console.WriteLine(DataService.GetMessage("Игорь"));
+            Console.WriteLine(DataService.GetMessage("Юлия"));
             Console.ReadKey(); 
         }
     }

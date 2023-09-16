@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.BrovinaYVSprint0.Task0.V0
+namespace Tyuiu.BrovinaYV.Sprint0.Task0.V0
 {
     class Program
     {

@@ -13,7 +13,6 @@
             return total;
 
         }
-        //предусловие
         public static object SubtractionArray(int[] numbers)
         {
             var total = 0;
@@ -27,7 +26,6 @@
             return total;
 
         }
-        //постусловие
         public static object MultiplicationArray(int[] numbers)
         {
             var total = 1;

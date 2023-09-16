@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{C59F7972-4AF2-4E33-A57A-748CD2114F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYVSprint0.Task0.V0", "Tyuiu.BrovinaYVSprint0.Task0.V0\Tyuiu.BrovinaYVSprint0.Task0.V0.csproj", "{37E233D3-07B2-49C0-9898-959BF9804977}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinaYV.Sprint0.Task0.V0", "Tyuiu.BrovinaYVSprint0.Task0.V0\Tyuiu.BrovinaYV.Sprint0.Task0.V0.csproj", "{37E233D3-07B2-49C0-9898-959BF9804977}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{AC00EFC5-2520-4458-AAA7-1F2D1493D8B5}"
 EndProject
